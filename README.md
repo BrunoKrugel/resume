@@ -8,14 +8,6 @@ E-mail: brunokrugel@gmail.com
 
 ## Work experience
 **SAP Labs Latin America (04/2017 – Now)**
-*Customer Support (04/2017 - 12/2019)*
-
-- Experience in supporting and configuring Integration processes (ECC and SCM-APO).
-- Customer support and consulting for Extended Warehouse management.
-- High Experience with Queue Management and Queue Screening.
-- ABAP Code analysis and debugging.
-- High experience in creating and maintaining Knowledge Base Articles (KBA).
-
 *Software Developer (12/2019 - Now)*
 
 - Integration of Tax Service into S/4 HANA, localizing business scenarios to support taxes calculation.
@@ -25,6 +17,14 @@ E-mail: brunokrugel@gmail.com
 - Experience in development software using Test Driven Development.
 - Configuration and maintenance of pipelines using Jenkins.
 - Using NodeJS, Java, Cloud Foundry, RabbitMQ on a daily basis.
+
+*Customer Support (04/2017 - 12/2019)*
+
+- Experience in supporting and configuring Integration processes (ECC and SCM-APO).
+- Customer support and consulting for Extended Warehouse management.
+- High Experience with Queue Management and Queue Screening.
+- ABAP Code analysis and debugging.
+- High experience in creating and maintaining Knowledge Base Articles (KBA).
 
 **Rech Informática (01/2016 – 03/2017)**
 *Software Developer*
