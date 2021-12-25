@@ -46,3 +46,6 @@ E-mail: brunokrugel@gmail.com
 - **Conflict Management** – 4h – Berlitz, São Leopoldo (Completed in 2019)
 - **Design Patterns** - 16h, São Leopoldo (Completed 2020)
 - **SOLID Principles** - 16h, São Leopoldo (Completed 2021)
+- **Advanced scrum techniques** - LinkedIn Learning (Completed 2021)
+- **Fundamentals of agile management** - LinkedIn Learning (Completed 2021)
+- **Agile software development** - LinkedIn Learning (Completed 2021)
