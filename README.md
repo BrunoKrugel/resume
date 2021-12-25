@@ -1,5 +1,6 @@
 # Bruno Krugel
 E-mail: brunokrugel@gmail.com
+LinkedIn: linkedin.com/in/brunokrugel
 
 ## Academic background
 
@@ -8,6 +9,7 @@ E-mail: brunokrugel@gmail.com
 
 ## Work experience
 **SAP Labs Latin America (04/2017 – Now)**
+
 *Software Developer (12/2019 - Now)*
 
 - Integration of Tax Service into S/4 HANA, localizing business scenarios to support taxes calculation.
