@@ -1,6 +1,7 @@
 # Bruno Krugel
 E-mail: brunokrugel@gmail.com
-LinkedIn: linkedin.com/in/brunokrugel
+
+LinkedIn: [linkedin.com/in/brunokrugel](https://www.linkedin.com/in/brunokrugel/)
 
 ## Academic background
 
