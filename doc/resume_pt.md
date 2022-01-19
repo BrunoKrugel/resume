@@ -5,13 +5,13 @@ LinkedIn: [linkedin.com/in/brunokrugel](https://www.linkedin.com/in/brunokrugel/
 
 ## Formação academica
 
-- Electronic Technician course integrated to high school, Fundação Escola Técnica Liberato Salzano Vieira da Cunha, Novo Hamburgo - RS, Concluded in 2016.
-- Technologist in System Analysis and Development, UNISINOS, São Leopoldo – RS, Conclusion in 2022.
+- Curso Técnico de Eletrônica integrado ao ensino médio, Fundação Escola Técnica Liberato Salzano Vieira da Cunha, Novo Hamburgo - RS, Concluído em 2016.
+- Tecnólogo em Análise e desenvolvimento de Sistemas, UNISINOS, São Leopoldo – RS, Conclusão prevista em 2022.
 
 ## Experiência de trabalho
-**SAP Labs Latin America (04/2017 – Now)**
+**SAP Labs Latin America (04/2017 – Atualmente)**
 
-*Software Developer (12/2019 - Now)*
+*Desenvolvedor Backend (12/2019 - Atualmente)*
 
 - Integration of Tax Service into S/4 HANA, localizing business scenarios to support taxes calculation.
 - Development and maintenance of dashboard for Document and Reporting Compliance using Fiori and CDS Views.
@@ -21,7 +21,7 @@ LinkedIn: [linkedin.com/in/brunokrugel](https://www.linkedin.com/in/brunokrugel/
 - Configuration and maintenance of pipelines using Jenkins.
 - Using NodeJS, Java, Cloud Foundry, RabbitMQ on a daily basis.
 
-*Customer Support (04/2017 - 12/2019)*
+*Suporte ao cliente (04/2017 - 12/2019)*
 
 - Experience in supporting and configuring Integration processes (ECC and SCM-APO).
 - Customer support and consulting for Extended Warehouse management.
@@ -30,7 +30,7 @@ LinkedIn: [linkedin.com/in/brunokrugel](https://www.linkedin.com/in/brunokrugel/
 - High experience in creating and maintaining Knowledge Base Articles (KBA).
 
 **Rech Informática (01/2016 – 03/2017)**
-*Software Developer*
+*Desenvolvedor full stack*
 
 - High Experience with Scrum Methodology.
 - Windows scripting to automate tasks.
@@ -40,15 +40,15 @@ LinkedIn: [linkedin.com/in/brunokrugel](https://www.linkedin.com/in/brunokrugel/
 
 ## Cursos extracurriculares
 
-- **How to resolve conflicts** – 8h – Berlitz, São Leopoldo (Completed in 2017)
-- **Assertiveness Training** – 16h – Berlitz, São Leopoldo (Completed in 2017) 
-- **Present confidently** – 8h – Berlitz, São Leopoldo (Completed in 2018)
-- **Agile Methodology: Scrum** – 7h – Udemy (Completed in 2018)
-- **How to create and delivery meaningful presentations** – 8h – Berlitz, São Leopoldo (Completed in 2018)
-- **Extended Warehouse Management (Processes)** – 80h – SAP Rot, Germany (Completed in 2018)
-- **Conflict Management** – 4h – Berlitz, São Leopoldo (Completed in 2019)
-- **Design Patterns** - 16h, São Leopoldo (Completed 2020)
-- **SOLID Principles** - 16h, São Leopoldo (Completed 2021)
-- **Advanced scrum techniques** - LinkedIn Learning (Completed 2021)
-- **Fundamentals of agile management** - LinkedIn Learning (Completed 2021)
-- **Agile software development** - LinkedIn Learning (Completed 2021)
+- **How to resolve conflicts** – 8h – Berlitz, São Leopoldo (Completado em 2017)
+- **Assertiveness Training** – 16h – Berlitz, São Leopoldo (Completado em 2017) 
+- **Present confidently** – 8h – Berlitz, São Leopoldo (Completado em 2018)
+- **Metodologia Agil: Scrum** – 7h – Udemy (Completado em 2018)
+- **How to create and delivery meaningful presentations** – 8h – Berlitz, São Leopoldo (Completado em 2018)
+- **Extended Warehouse Management (Processos)** – 80h – SAP Rot, Germany (Completado em 2018)
+- **Conflict Management** – 4h – Berlitz, São Leopoldo (Completado em in 2019)
+- **Design Patterns** - 16h, São Leopoldo (Completado em 2020)
+- **SOLID Principles** - 16h, São Leopoldo (Completado em 2021)
+- **Técnicas Avançadas de Scrum** - LinkedIn Learning (Completado em 2021)
+- **Fundamentos de Gestão Ágil** - LinkedIn Learning (Completado em 2021)
+- **Desenvolvimento Ágil de Software** - LinkedIn Learning (Completado em 2021)
