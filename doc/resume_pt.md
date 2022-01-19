@@ -30,6 +30,7 @@ LinkedIn: [linkedin.com/in/brunokrugel](https://www.linkedin.com/in/brunokrugel/
 - High experience in creating and maintaining Knowledge Base Articles (KBA).
 
 **Rech Informática (01/2016 – 03/2017)**
+
 *Desenvolvedor full stack*
 
 - High Experience with Scrum Methodology.
