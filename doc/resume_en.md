@@ -19,6 +19,7 @@ LinkedIn: [linkedin.com/in/brunokrugel](https://www.linkedin.com/in/brunokrugel/
 - Configuration and maintenance of GitHub repositories.
 - Experience in development software using Test Driven Development.
 - Configuration and maintenance of pipelines using Jenkins.
+- Experience with Fiori development and CDS views.
 - Using NodeJS, Java, Cloud Foundry, RabbitMQ on a daily basis.
 
 *Customer Support (04/2017 - 12/2019)*
