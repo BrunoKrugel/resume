@@ -13,6 +13,7 @@ LinkedIn: [linkedin.com/in/brunokrugel](https://www.linkedin.com/in/brunokrugel/
 
 *Backend Developer (06/2022 - Now)*
 
+- Development and maintenance of microservices-based architecture.
 - Configuration and maintenance of GitLab repositories.
 - Using Go, NodeJS, AWS, Grafana, Docker on a daily basis.
 
