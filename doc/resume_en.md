@@ -6,12 +6,19 @@ LinkedIn: [linkedin.com/in/brunokrugel](https://www.linkedin.com/in/brunokrugel/
 ## Academic background
 
 - Electronic Technician course integrated to high school, Fundação Escola Técnica Liberato Salzano Vieira da Cunha, Novo Hamburgo - RS, Concluded in 2016.
-- Technologist in System Analysis and Development, UNISINOS, São Leopoldo – RS, Conclusion in 2022.
+- Technologist in System Analysis and Development, UNISINOS, São Leopoldo – RS, Concluded in 2022.
 
 ## Work experience
-**SAP Labs Latin America (04/2017 – Now)**
+**iFood (06/2022 - Now)**
 
-*Software Developer (12/2019 - Now)*
+*Backend Developer (06/2022 - Now)*
+
+- Configuration and maintenance of GitLab repositories.
+- Using Go, NodeJS, AWS, Grafana, Docker on a daily basis.
+
+**SAP Labs Latin America (04/2017 – 06/2022)**
+
+*Software Developer (12/2019 - 06/2022)*
 
 - Integration of Tax Service into S/4 HANA, localizing business scenarios to support taxes calculation.
 - Development and maintenance of dashboard for Document and Reporting Compliance using Fiori and CDS Views.
