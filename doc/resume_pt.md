@@ -6,12 +6,20 @@ LinkedIn: [linkedin.com/in/brunokrugel](https://www.linkedin.com/in/brunokrugel/
 ## Formação academica
 
 - Curso Técnico de Eletrônica integrado ao ensino médio, Fundação Escola Técnica Liberato Salzano Vieira da Cunha, Novo Hamburgo - RS, Concluído em 2016.
-- Tecnólogo em Análise e desenvolvimento de Sistemas, UNISINOS, São Leopoldo – RS, Conclusão prevista em 2022.
+- Tecnólogo em Análise e desenvolvimento de Sistemas, UNISINOS, São Leopoldo – RS, Concluído em 2022.
 
 ## Experiência de trabalho
-**SAP Labs Latin America (04/2017 – Atualmente)**
+**iFood (06/2022 - Atualmente)**
 
-*Desenvolvedor Backend (12/2019 - Atualmente)*
+*Backend Developer (06/2022 - Atualmente)*
+
+- Development and maintenance of microservices-based architecture.
+- Configuration and maintenance of GitLab repositories.
+- Using Go, NodeJS, AWS, Grafana, Docker on a daily basis.
+
+**SAP Labs Latin America (04/2017 – 06/2022)**
+
+*Desenvolvedor de software (12/2019 - 06/2022)*
 
 - Integration of Tax Service into S/4 HANA, localizing business scenarios to support taxes calculation.
 - Development and maintenance of dashboard for Document and Reporting Compliance using Fiori and CDS Views.
@@ -33,11 +41,11 @@ LinkedIn: [linkedin.com/in/brunokrugel](https://www.linkedin.com/in/brunokrugel/
 
 *Desenvolvedor full stack*
 
-- High Experience with Scrum Methodology.
-- Windows scripting to automate tasks.
+- Experiência com metodologias ageís
+- Automação de tarefas através de scripts
 - Experience contacting clients, making visits, knowing the environment and analyzing possible improvements in the software.
-- High experience in developing and maintaining codes in COBOL.
-- Maintenance and development of modules for Industrial management, Management of service orders, Stock management, Purchasing Control and Warehouse Management System (WMS).
+- Manutenção e desenvolvimento em COBOL.
+- Manutenção e desenvolvimento de módulos para gerenciamento de indústria, ordens de serviço, estoque, ordens de compra e WMS.
 
 ## Cursos extracurriculares
 
