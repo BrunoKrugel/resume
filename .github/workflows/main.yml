@@ -17,19 +17,14 @@ jobs:
     name: Build PDF
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository    
-        uses: actions/checkout@v3
-        with:
-          ref: main
-
-      - name: Build Documentation PDFs
-        uses: baileyjm02/markdown-to-pdf@v1.2.0
+      - uses: actions/checkout@v2
+      - uses: baileyjm02/markdown-to-pdf@v1
         with:
           input_dir: doc
           output_dir: pdf
+          # Default is true, can set to false to only get PDF files
           build_html: false
-      
-      - name: Add and Commit Changes 
-        uses: EndBug/add-and-commit@v9.0.1
+      - uses: actions/upload-artifact@v1
         with:
-          message: 'Update PDFs'
+          name: docs
+          path: pdfs
