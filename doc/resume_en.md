@@ -14,8 +14,10 @@ LinkedIn: [linkedin.com/in/brunokrugel](https://www.linkedin.com/in/brunokrugel/
 *Backend Developer (06/2022 - Now)*
 
 - Development and maintenance of microservices-based architecture.
+- Migration of projects from HTTP architecture to GRPC.
+- Creation of grafana graphics with metrics from prometheus.
 - Configuration and maintenance of GitLab repositories.
-- Using Go, NodeJS, AWS, Grafana, Docker on a daily basis.
+- Using Go, NodeJS, AWS, Grafana, Docker, Redis on a daily basis.
 
 **SAP Labs Latin America (04/2017 – 06/2022)**
 
