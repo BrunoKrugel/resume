@@ -1,12 +1,13 @@
 # Bruno Krugel
-E-mail: brunokrugel@gmail.com
 
-LinkedIn: [linkedin.com/in/brunokrugel](https://www.linkedin.com/in/brunokrugel/)
+brunokrugel@gmail.com
+
+[linkedin.com/in/brunokrugel](https://www.linkedin.com/in/brunokrugel/)
 
 ## Academic background
 
-- Electronic Technician course integrated to high school, Fundação Escola Técnica Liberato Salzano Vieira da Cunha, Novo Hamburgo - RS, Concluded in 2016.
-- Technologist in System Analysis and Development, UNISINOS, São Leopoldo – RS, Concluded in 2022.
+- Electronic Technician course integrated into high school, Fundação Escola Técnica Liberato Salzano Vieira da Cunha, Novo Hamburgo - RS, Concluded in 2016.
+- Associate Degree in System Analysis and Development, UNISINOS, São Leopoldo – RS, Concluded in 2022.
 
 ## Work experience
 **iFood (06/2022 - Now)**
@@ -15,9 +16,10 @@ LinkedIn: [linkedin.com/in/brunokrugel](https://www.linkedin.com/in/brunokrugel/
 
 - Development and maintenance of microservices-based architecture.
 - Migration of projects from HTTP architecture to GRPC.
-- Creation of grafana graphics with metrics from prometheus.
+- Creation and maintenance of graphs for monitoring using Grafana and Datadog.
 - Configuration and maintenance of GitLab repositories.
-- Using Go, NodeJS, AWS, Grafana, Docker, Redis on a daily basis.
+- Creation of Load tests for microservices.
+- Using Go, NodeJS, AWS, Grafana, Datadog, Docker and Redis daily basis.
 
 **SAP Labs Latin America (04/2017 – 06/2022)**
 
@@ -27,9 +29,9 @@ LinkedIn: [linkedin.com/in/brunokrugel](https://www.linkedin.com/in/brunokrugel/
 - Development and maintenance of dashboard for Document and Reporting Compliance using Fiori and CDS Views.
 - Development and maintenance of microservices-based architecture with a variety of different programming languages and technologies. 
 - Configuration and maintenance of GitHub repositories.
-- Experience in development software using Test Driven Development.
+- Experience in developing software using Test Driven Development.
 - Configuration and maintenance of pipelines using Jenkins.
-- Using NodeJS, Java, Cloud Foundry, RabbitMQ on a daily basis.
+- Using NodeJS, TypeScript, Java, Cloud Foundry and RabbitMQ on a daily basis.
 
 *Customer Support (04/2017 - 12/2019)*
 
@@ -46,7 +48,7 @@ LinkedIn: [linkedin.com/in/brunokrugel](https://www.linkedin.com/in/brunokrugel/
 - Windows scripting to automate tasks.
 - Experience contacting clients, making visits, knowing the environment and analyzing possible improvements in the software.
 - High experience in developing and maintaining codes in COBOL.
-- Maintenance and development of modules for Industrial management, Management of service orders, Stock management, Purchasing Control and Warehouse Management System (WMS).
+- Maintenance and development of modules for Industrial management, Management of service orders, Stock Management, Purchasing Control and Warehouse Management Systems (WMS).
 
 ## Extracurricular courses
 
@@ -54,7 +56,7 @@ LinkedIn: [linkedin.com/in/brunokrugel](https://www.linkedin.com/in/brunokrugel/
 - **Assertiveness Training** – 16h – Berlitz, São Leopoldo (Completed in 2017) 
 - **Present confidently** – 8h – Berlitz, São Leopoldo (Completed in 2018)
 - **Agile Methodology: Scrum** – 7h – Udemy (Completed in 2018)
-- **How to create and delivery meaningful presentations** – 8h – Berlitz, São Leopoldo (Completed in 2018)
+- **How to create and deliver meaningful presentations** – 8h – Berlitz, São Leopoldo (Completed in 2018)
 - **Extended Warehouse Management (Processes)** – 80h – SAP Rot, Germany (Completed in 2018)
 - **Conflict Management** – 4h – Berlitz, São Leopoldo (Completed in 2019)
 - **Design Patterns** - 16h, São Leopoldo (Completed 2020)
