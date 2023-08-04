@@ -21,13 +21,19 @@ brunokrugel@gmail.com
 - Creation of Load tests for microservices.
 - Using Go, NodeJS, AWS, Grafana, Datadog, Docker and Redis daily basis.
 
+**AdSimplifier (01/2023 - Now)**
+
+*Fullstack Developer (01-2023 - Now)*
+
+-
+
 **SAP Labs Latin America (04/2017 – 06/2022)**
 
 *Software Developer (12/2019 - 06/2022)*
 
 - Integration of Tax Service into S/4 HANA, localizing business scenarios to support taxes calculation.
 - Development and maintenance of dashboard for Document and Reporting Compliance using Fiori and CDS Views.
-- Development and maintenance of microservices-based architecture with a variety of different programming languages and technologies. 
+- Development and maintenance of microservices-based architecture with a variety of different programming languages and technologies.
 - Configuration and maintenance of GitHub repositories.
 - Experience in developing software using Test Driven Development.
 - Configuration and maintenance of pipelines using Jenkins.
@@ -53,7 +59,7 @@ brunokrugel@gmail.com
 ## Extracurricular courses
 
 - **How to resolve conflicts** – 8h – Berlitz, São Leopoldo (Completed in 2017)
-- **Assertiveness Training** – 16h – Berlitz, São Leopoldo (Completed in 2017) 
+- **Assertiveness Training** – 16h – Berlitz, São Leopoldo (Completed in 2017)
 - **Present confidently** – 8h – Berlitz, São Leopoldo (Completed in 2018)
 - **Agile Methodology: Scrum** – 7h – Udemy (Completed in 2018)
 - **How to create and deliver meaningful presentations** – 8h – Berlitz, São Leopoldo (Completed in 2018)
