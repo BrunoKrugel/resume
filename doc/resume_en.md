@@ -1,4 +1,5 @@
 # Bruno Krugel
+Brazil
 
 brunokrugel@gmail.com
 
@@ -18,14 +19,8 @@ brunokrugel@gmail.com
 - Migration of projects from HTTP architecture to GRPC.
 - Creation and maintenance of graphs for monitoring using Grafana and Datadog.
 - Configuration and maintenance of GitLab repositories.
-- Creation of Load tests for microservices.
+- Creation of Load tests for microservices using K6.
 - Using Go, NodeJS, AWS, Grafana, Datadog, Docker and Redis daily basis.
-
-**AdSimplifier (01/2023 - Now)**
-
-*Fullstack Developer (01-2023 - Now)*
-
--
 
 **SAP Labs Latin America (04/2017 – 06/2022)**
 
@@ -55,6 +50,19 @@ brunokrugel@gmail.com
 - Experience contacting clients, making visits, knowing the environment and analyzing possible improvements in the software.
 - High experience in developing and maintaining codes in COBOL.
 - Maintenance and development of modules for Industrial management, Management of service orders, Stock Management, Purchasing Control and Warehouse Management Systems (WMS).
+
+## Projects
+
+**AdSimplifier (01/2023 - Now)**
+
+*Fullstack Developer (01-2023 - Now)*
+
+- Creation and development of AdSimplifier, a platform to analyze expenses in Ads and optimize them.
+- Development of the Backend using Go,
+- Development of the Front End using NextJS and React.
+- Development of the database using MongoDB.
+- Using Redis as a cache to optimize the process of the backend.
+
 
 ## Extracurricular courses
 
