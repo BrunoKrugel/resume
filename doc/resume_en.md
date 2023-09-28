@@ -25,23 +25,23 @@ brunokrugel@gmail.com
 
 **SAP Labs Latin America (04/2017 – 06/2022)**
 
-*Software Developer (12/2019 - 06/2022)*
+*Backend Developer (12/2019 - 06/2022)*
 
-- Integration of Tax Service into `S/4 HANA`, localizing business scenarios to support taxes calculation.
-- Development and maintenance of dashboard for Document and Reporting Compliance using `Fiori` and `CDS Views`.
+- Integration of Tax Service into `S/4 HANA`, localizing business scenarios to support and integrate local tax calculation.
+- Development and maintenance of a dashboard for Document and Reporting Compliance using `Fiori` design principles and `CDS Views`.
 - Development and maintenance of microservices-based architecture with a variety of different programming languages and technologies.
-- Configuration and maintenance of GitHub repositories.
-- Experience in developing software using Test Driven Development.
-- Configuration and maintenance of pipelines using `Jenkins`.
+- Experience in developing software using Test Driven Development (TDD), consistently delivering high-quality software solutions with a focus on robust testing.
+- Proficiency in setting up and maintaining automated build and deployment pipelines using Jenkins, streamlining the software development lifecycle.
 - Using `NodeJS`, `TypeScript`, `Java`, `Cloud Foundry`, `Redis` and `RabbitMQ` on a daily basis.
 
 *Customer Support (04/2017 - 12/2019)*
 
-- Experience in supporting and configuring Integration processes (`ECC` and `SCM-APO`).
+- Experience in providing comprehensive support and configuring integration processes, specializing in ECC (ERP Central Component) and SCM-APO (Supply Chain Management – Advanced Planning and Optimization).
 - Customer support and consulting for Extended Warehouse Management (`SCM-EWM`).
-- High Experience with Queue Management and Queue Screening.
-- `ABAP` Code analysis and debugging.
-- High experience in creating and maintaining Knowledge Base Articles (KBA).
+- Topic contact for the component of SCM-EWM-SR (`Shipping and Receiving`), with high experience in providing support and consulting to customers and colleagues.
+- Queue Management and Screening Expertise: Highly skilled in the management and rigorous screening of queues, enhancing operational efficiency and ensuring the uninterrupted flow of critical tickets.
+- Proficient in conducting in-depth analysis and debugging of ABAP code, ensuring code quality, performance optimization, and swift issue resolution.
+- High experience in creating and maintaining Knowledge Base Articles (KBA), empowering teams with readily accessible knowledge resources for efficient problem-solving and troubleshooting.
 
 **Rech Informática (01/2016 – 03/2017)**
 *Fullstack Developer*
