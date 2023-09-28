@@ -7,20 +7,21 @@ brunokrugel@gmail.com
 
 ## Academic background
 
-- Electronic Technician course integrated into high school, Fundação Escola Técnica Liberato Salzano Vieira da Cunha, Novo Hamburgo - RS, Concluded in 2016.
-- Associate's Degree in System Analysis and Development, UNISINOS, São Leopoldo – RS, Concluded in 2022.
+- *Electronic Technician* course integrated into High School, Fundação Escola Técnica Liberato Salzano Vieira da Cunha, Novo Hamburgo - RS, Concluded in 2016.
+- *Associate's Degree in System Analysis and Development*, UNISINOS, São Leopoldo – RS, Concluded in 2022.
 
 ## Work experience
 **iFood (06/2022 - Now)**
 
 *Backend Developer (06/2022 - Now)*
 
-- Development and maintenance of microservices-based architecture.
-- Migration of projects from `HTTP` architecture to `GRPC`.
-- Creation and maintenance of graphs for monitoring using `Grafana` and `Datadog`.
-- Configuration and maintenance of `GitLab` repositories.
-- Creation of Load tests for microservices using `K6`.
-- Configuration and maintenance of pipelines using `GitLab CI`.
+- Proficient in the design, development, and continuous maintenance of robust microservices-based architectures, ensuring scalability and resilience. Actively participated in software architecture decisions and discussions, contributing to the strategic direction of projects and fostering collaborative solutions.
+- Experienced in successfully migrating projects from traditional `HTTP` architecture to modern and efficient `gRPC` communication protocols, optimizing performance and efficiency.
+- Skilled in creating and maintaining dynamic monitoring graphs using industry-standard tools such as `Grafana` and `Datadog`, providing real-time insights into system performance.
+- Proficient in devising and executing load tests for microservices using `K6`, effectively simulating real-world scenarios to ensure system reliability and performance.
+- Expertise in configuring and maintaining continuous integration (CI) pipelines using `GitLab CI`, automating software build, test, and deployment processes for streamlined development.
+- Experienced in the implementation of Chaos Engineering practices using LitmusChaos, systematically introducing controlled failures into systems to identify weaknesses and enhance resilience.
+- Accomplished in the migration of `Java-based` projects to `Go`, leveraging expertise in both languages to ensure a seamless transition. Proficient in refactoring, optimizing, and enhancing codebases, resulting in improved performance and maintainability.
 - Using `Go`, `NodeJS`, `AWS`, `Grafana`, `Datadog`, `Docker` and `Redis` daily basis.
 
 **SAP Labs Latin America (04/2017 – 06/2022)**
