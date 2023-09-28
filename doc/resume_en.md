@@ -8,7 +8,7 @@ brunokrugel@gmail.com
 ## Academic background
 
 - Electronic Technician course integrated into high school, Fundação Escola Técnica Liberato Salzano Vieira da Cunha, Novo Hamburgo - RS, Concluded in 2016.
-- Associate Degree in System Analysis and Development, UNISINOS, São Leopoldo – RS, Concluded in 2022.
+- Associate's Degree in System Analysis and Development, UNISINOS, São Leopoldo – RS, Concluded in 2022.
 
 ## Work experience
 **iFood (06/2022 - Now)**
@@ -44,11 +44,11 @@ brunokrugel@gmail.com
 - High experience in creating and maintaining Knowledge Base Articles (KBA).
 
 **Rech Informática (01/2016 – 03/2017)**
-*Software Developer*
+*Fullstack Developer*
 
-- High Experience with Scrum Methodology.
-- Windows scripting to automate tasks.
-- Experience contacting clients, making visits, knowing the environment and analyzing possible improvements in the software.
+- Agile Methodology Proficiency: Experience in applying Scrum methodology to manage and deliver software projects efficiently.
+- Scripting for Automation: Proficient in Windows scripting to automate complex tasks, enhancing operational efficiency and reducing manual intervention.
+- Expertise in customer engagement, conducting site visits, and comprehensive environment analysis. Proven ability to identify software improvement opportunities by understanding customer needs.
 - High experience in developing and maintaining codes in `COBOL`.
 - Maintenance and development of modules for Industrial management, Management of service orders, Stock Management, Purchasing Control and Warehouse Management Systems (WMS).
 
