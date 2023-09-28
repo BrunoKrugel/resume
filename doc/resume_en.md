@@ -1,9 +1,9 @@
 # Bruno Krugel
 Brazil
 
-brunokrugel@gmail.com
+Email: brunokrugel@gmail.com
 
-[linkedin.com/in/brunokrugel](https://www.linkedin.com/in/brunokrugel/)
+LinkedIn: [linkedin.com/in/brunokrugel](https://www.linkedin.com/in/brunokrugel/)
 
 ## Academic background
 
@@ -11,9 +11,9 @@ brunokrugel@gmail.com
 - *Associate's Degree in System Analysis and Development*, UNISINOS, São Leopoldo – RS, Concluded in 2022.
 
 ## Work experience
-**iFood (06/2022 - Now)**
+### **iFood (06/2022 - Now)**
 
-*Backend Developer (06/2022 - Now)*
+*Backend Developer (06/2022 - Present)*
 
 - Proficient in the design, development, and continuous maintenance of robust microservices-based architectures, ensuring scalability and resilience. Actively participated in software architecture decisions and discussions, contributing to the strategic direction of projects and fostering collaborative solutions.
 - Experienced in successfully migrating projects from traditional `HTTP` architecture to modern and efficient `gRPC` communication protocols, optimizing performance and efficiency.
@@ -24,7 +24,7 @@ brunokrugel@gmail.com
 - Accomplished in the migration of `Java-based` projects to `Go`, leveraging expertise in both languages to ensure a seamless transition. Proficient in refactoring, optimizing, and enhancing codebases, resulting in improved performance and maintainability.
 - Using `Go`, `NodeJS`, `AWS`, `Grafana`, `Datadog`, `Docker` and `Redis` daily basis.
 
-**SAP Labs Latin America (04/2017 – 06/2022)**
+### **SAP Labs Latin America (04/2017 – 06/2022)**
 
 *Backend Developer (12/2019 - 06/2022)*
 
@@ -44,7 +44,7 @@ brunokrugel@gmail.com
 - Proficient in conducting in-depth analysis and debugging of ABAP code, ensuring code quality, performance optimization, and swift issue resolution.
 - High experience in creating and maintaining Knowledge Base Articles (KBA), empowering teams with readily accessible knowledge resources for efficient problem-solving and troubleshooting.
 
-**Rech Informática (01/2016 – 03/2017)**
+### **Rech Informática (01/2016 – 03/2017)**
 *Fullstack Developer*
 
 - Agile Methodology Proficiency: Experience in applying Scrum methodology to manage and deliver software projects efficiently.
@@ -55,14 +55,14 @@ brunokrugel@gmail.com
 
 ## Projects
 
-**AdSimplifier (01/2023 - Now)**
+### **AdSimplifier (01/2023 - Now)**
 
-*Fullstack Developer (01-2023 - Now)*
+*Fullstack Developer (01-2023 - Present)*
 
-- Creation and development of AdSimplifier, a platform to analyze expenses in Ads and optimize them.
-- Development of the Backend using `Go`,
-- Development of the Front End using `NextJS` and `React`.
-- Development of the database using `MongoDB`.
-- Using `Redis` as a cache to optimize the process of the backend.
-- Using Stripe to handle payments.
-- Using `Heroku` to handle the server and `Vercel` to handle the website.
+- Founded and spearheaded AdSimplifier, a dynamic platform designed to meticulously analyze advertising expenses and streamline optimization strategies.
+- Leveraged Go to architect and develop the robust Backend infrastructure, ensuring secure and efficient data processing.
+- Crafted a user-centric front-end experience using NextJS and React, focusing on intuitive usability and real-time data visualization.
+- Engineered a flexible and scalable database system using MongoDB to store and manage critical business data.
+- Employed Redis as a high-performance caching mechanism, enhancing backend processing speed and overall system responsiveness.
+- Seamlessly integrated Stripe for seamless payment processing, ensuring a secure and efficient financial transaction experience.
+- Orchestrated the deployment and hosting of the server infrastructure on Heroku, while Vercel facilitated the website's speedy and reliable hosting.
