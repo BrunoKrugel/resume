@@ -5,11 +5,6 @@ Email: brunokrugel@gmail.com
 
 LinkedIn: [linkedin.com/in/brunokrugel](https://www.linkedin.com/in/brunokrugel/)
 
-## Academic background
-
-- *Electronic Technician* course integrated into High School, Fundação Escola Técnica Liberato Salzano Vieira da Cunha, Novo Hamburgo - RS, Concluded in 2016.
-- *Associate's Degree in System Analysis and Development*, UNISINOS, São Leopoldo – RS, Concluded in 2022.
-
 ## Work experience
 ### **iFood (06/2022 - Now)**
 
@@ -22,7 +17,7 @@ LinkedIn: [linkedin.com/in/brunokrugel](https://www.linkedin.com/in/brunokrugel/
 - Expertise in configuring and maintaining continuous integration (CI) pipelines using `GitLab CI`, automating software build, test, and deployment processes for streamlined development.
 - Experienced in the implementation of Chaos Engineering practices using LitmusChaos, systematically introducing controlled failures into systems to identify weaknesses and enhance resilience.
 - Accomplished in the migration of `Java-based` projects to `Go`, leveraging expertise in both languages to ensure a seamless transition. Proficient in refactoring, optimizing, and enhancing codebases, resulting in improved performance and maintainability.
-- Using `Go`, `NodeJS`, `AWS`, `Grafana`, `Datadog`, `Docker` and `Redis` daily basis.
+- Using `Go`, `NodeJS`, `AWS`, `Grafana`, `Datadog`, `Docker`, and `Redis` daily basis.
 
 ### **SAP Labs Latin America (04/2017 – 06/2022)**
 
@@ -33,7 +28,7 @@ LinkedIn: [linkedin.com/in/brunokrugel](https://www.linkedin.com/in/brunokrugel/
 - Development and maintenance of microservices-based architecture with a variety of different programming languages and technologies.
 - Experience in developing software using Test Driven Development (TDD), consistently delivering high-quality software solutions with a focus on robust testing.
 - Proficiency in setting up and maintaining automated build and deployment pipelines using Jenkins, streamlining the software development lifecycle.
-- Using `NodeJS`, `TypeScript`, `Java`, `Cloud Foundry`, `Redis` and `RabbitMQ` on a daily basis.
+- Using `NodeJS`, `TypeScript`, `Java`, `Cloud Foundry`, `Redis`, and `RabbitMQ` on a daily basis.
 
 *Customer Support (04/2017 - 12/2019)*
 
@@ -51,7 +46,12 @@ LinkedIn: [linkedin.com/in/brunokrugel](https://www.linkedin.com/in/brunokrugel/
 - Scripting for Automation: Proficient in Windows scripting to automate complex tasks, enhancing operational efficiency and reducing manual intervention.
 - Expertise in customer engagement, conducting site visits, and comprehensive environment analysis. Proven ability to identify software improvement opportunities by understanding customer needs.
 - High experience in developing and maintaining codes in `COBOL`.
-- Maintenance and development of modules for Industrial management, Management of service orders, Stock Management, Purchasing Control and Warehouse Management Systems (WMS).
+- Maintenance and development of modules for Industrial management, Management of service orders, Stock Management, Purchasing Control, and Warehouse Management Systems (WMS).
+
+## Academic background
+
+- *Associate's Degree in System Analysis and Development*, UNISINOS, São Leopoldo – RS, Concluded in 2022.
+- *Electronic Technician* course integrated into High School, Fundação Escola Técnica Liberato Salzano Vieira da Cunha, Novo Hamburgo - RS, Concluded in 2016.
 
 ## Projects
 
@@ -59,10 +59,10 @@ LinkedIn: [linkedin.com/in/brunokrugel](https://www.linkedin.com/in/brunokrugel/
 
 *Fullstack Developer (01-2023 - Present)*
 
-- Founded and spearheaded AdSimplifier, a dynamic platform designed to meticulously analyze advertising expenses and streamline optimization strategies.
+- Founded and spearheaded AdSimplifier, a dynamic platform designed to analyze advertising expenses and streamline optimization strategies meticulously.
 - Leveraged Go to architect and develop the robust Backend infrastructure, ensuring secure and efficient data processing.
 - Crafted a user-centric front-end experience using NextJS and React, focusing on intuitive usability and real-time data visualization.
 - Engineered a flexible and scalable database system using MongoDB to store and manage critical business data.
 - Employed Redis as a high-performance caching mechanism, enhancing backend processing speed and overall system responsiveness.
 - Seamlessly integrated Stripe for seamless payment processing, ensuring a secure and efficient financial transaction experience.
-- Orchestrated the deployment and hosting of the server infrastructure on Heroku, while Vercel facilitated the website's speedy and reliable hosting.
+- Orchestrated the deployment and hosting of the server infrastructure on Heroku, while Vercel facilitated the website's performance and reliable hosting.
